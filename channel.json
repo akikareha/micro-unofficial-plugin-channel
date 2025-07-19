@@ -1,0 +1,10 @@
+[
+	//colorswitcher
+	"https://raw.githubusercontent.com/akikareha/micro-colorswitcher-plugin/main/repo.json",
+	//fmtonsave
+	"https://raw.githubusercontent.com/akikareha/micro-fmtonsave-plugin/main/repo.json",
+	//autotheme
+	"https://raw.githubusercontent.com/akikareha/micro-autotheme-plugin/main/repo.json",
+	//colorshuffle
+	"https://raw.githubusercontent.com/akikareha/micro-colorshuffle-plugin/main/repo.json"
+]
