@@ -8,5 +8,7 @@
 	//colorshuffle
 	"https://raw.githubusercontent.com/akikareha/micro-colorshuffle-plugin/main/repo.json",
 	//karehacolors
-	"https://raw.githubusercontent.com/akikareha/micro-kareha-colorschemes/main/repo.json"
+	"https://raw.githubusercontent.com/akikareha/micro-kareha-colorschemes/main/repo.json",
+	//diffpatchsyntax
+	"https://raw.githubusercontent.com/akikareha/micro-diffpatch-syntax/main/repo.json"
 ]
