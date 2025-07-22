@@ -37,3 +37,4 @@ plugin install colorswitcher
 | `fmtonsave`     | Format on Save | Auto-format files on save in micro using formatters like StyLua.               | https://github.com/akikareha/micro-fmtonsave-plugin     |
 | `autotheme`     | Auto Theme     | Automatically sets the colorscheme of micro based on syntax (filetype).        | https://github.com/akikareha/micro-autotheme-plugin     |
 | `colorshuffle`  | Color Shuffle  | A micro plugin that shuffles your theme each time you open a file.             | https://github.com/akikareha/micro-colorshuffle-plugin  |
+| `karehacolors`  | Kareha Colors  | A warm and calm color scheme for micro, evoking the feel of fallen leaves.     | https://github.com/akikareha/micro-kareha-colorschemes  |

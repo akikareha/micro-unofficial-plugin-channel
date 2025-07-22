@@ -6,5 +6,7 @@
 	//autotheme
 	"https://raw.githubusercontent.com/akikareha/micro-autotheme-plugin/main/repo.json",
 	//colorshuffle
-	"https://raw.githubusercontent.com/akikareha/micro-colorshuffle-plugin/main/repo.json"
+	"https://raw.githubusercontent.com/akikareha/micro-colorshuffle-plugin/main/repo.json",
+	//karehacolors
+	"https://raw.githubusercontent.com/akikareha/micro-kareha-colorschemes/main/repo.json"
 ]
