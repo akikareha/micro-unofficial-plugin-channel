@@ -39,3 +39,4 @@ plugin install colorswitcher
 | `colorshuffle`    | Color Shuffle         | A micro plugin that shuffles your theme each time you open a file.             | https://github.com/akikareha/micro-colorshuffle-plugin  |
 | `karehacolors`    | Kareha Colors         | A warm and calm color scheme for micro, evoking the feel of fallen leaves.     | https://github.com/akikareha/micro-kareha-colorschemes  |
 | `diffpatchsyntax` | diff and patch Syntax | Provides syntax highlighting for diff and patch files in micro.                | https://github.com/akikareha/micro-diffpatch-syntax     |
+| `gtypistsyntax`   | GNU Typist Syntax     | Syntax highlighting for GNU Typist lesson files in the micro text editor.      | https://github.com/akikareha/micro-gtypist-syntax       |
