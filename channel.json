@@ -12,5 +12,7 @@
 	//diffpatchsyntax
 	"https://raw.githubusercontent.com/akikareha/micro-diffpatch-syntax/main/repo.json",
 	//gtypistsyntax
-	"https://raw.githubusercontent.com/akikareha/micro-gtypist-syntax/main/repo.json"
+	"https://raw.githubusercontent.com/akikareha/micro-gtypist-syntax/main/repo.json",
+	//mdfy
+	"https://raw.githubusercontent.com/akikareha/micro-mdfy-plugin/main/repo.json"
 ]
