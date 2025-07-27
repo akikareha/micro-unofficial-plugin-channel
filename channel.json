@@ -14,5 +14,7 @@
 	//gtypistsyntax
 	"https://raw.githubusercontent.com/akikareha/micro-gtypist-syntax/main/repo.json",
 	//mdfy
-	"https://raw.githubusercontent.com/akikareha/micro-mdfy-plugin/main/repo.json"
+	"https://raw.githubusercontent.com/akikareha/micro-mdfy-plugin/main/repo.json",
+	//toggle
+	"https://raw.githubusercontent.com/akikareha/micro-toggle-plugin/main/repo.json"
 ]

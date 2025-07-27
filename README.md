@@ -41,3 +41,4 @@ plugin install colorswitcher
 | `diffpatchsyntax` | diff and patch Syntax | Provides syntax highlighting for diff and patch files in micro.                  | https://github.com/akikareha/micro-diffpatch-syntax     |
 | `gtypistsyntax`   | GNU Typist Syntax     | Syntax highlighting for GNU Typist lesson files in the micro text editor.        | https://github.com/akikareha/micro-gtypist-syntax       |
 | `mdfy`            | MDfy (Markdown-ize)   | A micro editor plugin that converts a URL under the cursor into a Markdown link. | https://github.com/akikareha/micro-mdfy-plugin          |
+| `toggle`          | Toggle Options        | Toggle boolean options in micro editor.                                          | https://github.com/akikareha/micro-toggle-plugin        |
