@@ -18,5 +18,7 @@
 	//toggle
 	"https://raw.githubusercontent.com/akikareha/micro-toggle-plugin/main/repo.json",
 	//shout
-	"https://raw.githubusercontent.com/akikareha/micro-shout-plugin/main/repo.json"
+	"https://raw.githubusercontent.com/akikareha/micro-shout-plugin/main/repo.json",
+	//openconfig
+	"https://raw.githubusercontent.com/akikareha/micro-openconfig-plugin/main/repo.json"
 ]
