@@ -44,3 +44,4 @@ plugin install colorswitcher
 | `toggle`          | Toggle Options        | Adds two commands for toggling boolean configuration options.                             | https://github.com/akikareha/micro-toggle-plugin        |
 | `shout`           | Shell Out             | Run the current line as a shell command and insert the output below.                      | https://github.com/akikareha/micro-shout-plugin         |
 | `openconfig`      | Open Config           | Adds commands to open micro config files like settings.json, bindings.json, and init.lua. | https://github.com/akikareha/micro-openconfig-plugin    |
+| `pushd`           | pushd                 | Provides shell-like pushd, popd, and dirs commands.                                       | https://github.com/akikareha/micro-pushd-plugin         |

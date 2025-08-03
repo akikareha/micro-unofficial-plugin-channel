@@ -20,5 +20,7 @@
 	//shout
 	"https://raw.githubusercontent.com/akikareha/micro-shout-plugin/main/repo.json",
 	//openconfig
-	"https://raw.githubusercontent.com/akikareha/micro-openconfig-plugin/main/repo.json"
+	"https://raw.githubusercontent.com/akikareha/micro-openconfig-plugin/main/repo.json",
+	//pushd
+	"https://raw.githubusercontent.com/akikareha/micro-pushd-plugin/main/repo.json"
 ]
