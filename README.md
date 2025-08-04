@@ -46,3 +46,4 @@ plugin install colorswitcher
 | `openconfig`      | Open Config              | Adds commands to open micro config files like settings.json, bindings.json, and init.lua. | https://github.com/akikareha/micro-openconfig-plugin    |
 | `pushd`           | pushd                    | Provides shell-like pushd, popd, and dirs commands.                                       | https://github.com/akikareha/micro-pushd-plugin         |
 | `mdtblfmt`        | Markdown Table Formatter | Reformats all Markdown tables in the current buffer.                                      | https://github.com/akikareha/micro-mdtblfmt-plugin      |
+| `colorgen`        | Color Generator          | Randomly generates a new 16-color colorscheme each time you run the command.              | https://github.com/akikareha/micro-colorgen-plugin      |
