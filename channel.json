@@ -26,5 +26,7 @@
 	//mdtblfmt
 	"https://raw.githubusercontent.com/akikareha/micro-mdtblfmt-plugin/main/repo.json",
 	//colorgen
-	"https://raw.githubusercontent.com/akikareha/micro-colorgen-plugin/main/repo.json"
+	"https://raw.githubusercontent.com/akikareha/micro-colorgen-plugin/main/repo.json",
+	//pubcolors
+	"https://raw.githubusercontent.com/akikareha/micro-pub-colorschemes/main/repo.json"
 ]
