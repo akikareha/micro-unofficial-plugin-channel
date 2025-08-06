@@ -30,5 +30,7 @@
 	//pubcolors
 	"https://raw.githubusercontent.com/akikareha/micro-pub-colorschemes/main/repo.json",
 	//romaji
-	"https://raw.githubusercontent.com/akikareha/micro-romaji-plugin/main/repo.json"
+	"https://raw.githubusercontent.com/akikareha/micro-romaji-plugin/main/repo.json",
+	//vi
+	"https://raw.githubusercontent.com/akikareha/micro-vi-plugin/main/repo.json"
 ]
