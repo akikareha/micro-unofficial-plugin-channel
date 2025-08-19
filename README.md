@@ -48,5 +48,5 @@ plugin install colorswitcher
 | `mdtblfmt`        | Markdown Table Formatter | Reformats all Markdown tables in the current buffer.                                      | https://github.com/akikareha/micro-mdtblfmt-plugin      |
 | `colorgen`        | Color Generator          | Randomly generates a new 16-color colorscheme each time you run the command.              | https://github.com/akikareha/micro-colorgen-plugin      |
 | `pubcolors`       | Publc Colors             | A public color scheme collection.                                                         | https://github.com/akikareha/micro-pub-colorschemes     |
-| `romaji`          | Romaji                   | A Japanese input method inspired by the SKK.                                              | https://github.com/akikareha/micro-romaji-plugin        |
+| `skk`             | SKK                      | A Japanese input method inspired by the SKK.                                              | https://github.com/akikareha/micro-skk-plugin           |
 | `vi`              | vi                       | Provides a simple vi-style modal editing mode.                                            | https://github.com/akikareha/micro-vi-plugin            |
